@@ -2,7 +2,7 @@
 <h3 align="center">Data Analyst | Business Data Analyst | Administrative Assistant</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Data+Analyst;Business+Analyst;Python+%7C+SQL+%7C+Tableau;Turning+Data+into+Insights" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Data+Analyst;Business+Analyst;Python+%7C+SQL+%7C+Tableau;Turning+Data+into+Insights+R+Studio+%7C" />
 </p>
 
 ---
